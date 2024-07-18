@@ -256,7 +256,7 @@ body {
   }
 
   .four .text-box {
-    width: 90%;
+    width: auto;
   }
 
   .text-box .fake-btn {
