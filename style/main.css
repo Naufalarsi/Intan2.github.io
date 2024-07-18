@@ -33,7 +33,7 @@ body {
 }
 
 .two {
-  font-size: 1.2rem;
+  font-size: 2rem;
   font-weight: lighter;
 }
 
@@ -47,12 +47,12 @@ body {
   margin: 0 auto;
   padding: 10px;
   position: relative;
-  width: 600px;
+  width: 650px;
 }
 
 .text-box p {
   margin: 0;
-  text-align: left;
+  text-align: justify;
 }
 
 .text-box span {
